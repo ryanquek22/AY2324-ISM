@@ -8,7 +8,7 @@ nltk.download('punkt')
 from nltk.tokenize import sent_tokenize
 
 # file path to html document
-html_document_path = r"data/tsla-20231231.html"
+html_document_path = r"data/tsla-20221231.html"
 
 print("reading HTML Doc")
 # Load the HTML document
